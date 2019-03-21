@@ -5,6 +5,7 @@ import myname
 name = myname.get_name()
 print(f'hello {name}')
 
+print('Shine on you crazy Diamond')
 print('Pink Floyd')
 
 
