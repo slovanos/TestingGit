@@ -7,5 +7,3 @@ print(f'hello {name}')
 
 print('Shine on you crazy Diamond')
 print('Pink Floyd')
-
-
