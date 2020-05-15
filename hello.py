@@ -7,3 +7,5 @@ name = myname.get_name()
 print(f'hello {name}')
 
 print('THIS IS PART OF THE BRANCH THAT GOES PUBLIC')
+
+print('do $push remote branchNameLocale:branchNameRemote')
