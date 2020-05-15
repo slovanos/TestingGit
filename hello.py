@@ -9,3 +9,5 @@ print(f'hello {name}')
 print('THIS IS PART OF THE BRANCH THAT GOES PUBLIC')
 
 print('do $push remote branchNameLocale:branchNameRemote')
+
+print('do $push -u remoteRepo branchNameLocal:branchNameRemote to associate both branches')
